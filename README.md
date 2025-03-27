@@ -1,4 +1,4 @@
-# CYBORG QUIZ PROTOCOL - ENCRYPTION CHALLENGE
+# AES ENCRYPTION CHALLENGE
 
 This is a simple encryption-based quiz game where the options for each question are encrypted using AES (Advanced Encryption Standard). Players will attempt to select the correct answer to the given question, which is revealed after decryption.
 
